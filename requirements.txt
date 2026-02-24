@@ -1,0 +1,19 @@
+# AI Exam Paper Corrector - Requirements
+# ========================================
+
+# Core Dependencies
+Pillow>=9.0.0          # Image processing
+
+# Optional: OCR Support (install if you want real image processing)
+# pytesseract>=0.3.10  # OCR engine wrapper
+# Note: Also requires Tesseract-OCR installed on system
+
+# GUI
+# tkinter is included with Python
+
+# Scientific Computing (optional, for advanced features)
+# numpy>=1.21.0
+# scikit-learn>=1.0.0
+
+# Note: The project works without additional installations
+# as it has built-in fallbacks for demo mode
