@@ -1,0 +1,2 @@
+{"timestamp": "2026-04-30T21:55:05.712508", "metric": "test_metric", "value": 42.5, "category": "test"}
+{"timestamp": "2026-04-30T21:55:05.713508", "algorithm": "Bayesian", "avg_score": 78.5, "min_score": 42.0, "max_score": 98.0, "total_graded": 50}
